@@ -2183,7 +2183,7 @@ go.opencensus.io/tag
 ## explicit; go 1.24.0
 go.opentelemetry.io/auto/sdk
 go.opentelemetry.io/auto/sdk/internal/telemetry
-# go.opentelemetry.io/collector/component v1.69.0
+# go.opentelemetry.io/collector/component v1.70.0
 ## explicit; go 1.26.0
 go.opentelemetry.io/collector/component
 # go.opentelemetry.io/collector/confmap v1.59.0
@@ -2200,13 +2200,13 @@ go.opentelemetry.io/collector/confmap/xconfmap
 ## explicit; go 1.26.0
 go.opentelemetry.io/collector/consumer
 go.opentelemetry.io/collector/consumer/internal
-# go.opentelemetry.io/collector/featuregate v1.69.0
+# go.opentelemetry.io/collector/featuregate v1.70.0
 ## explicit; go 1.26.0
 go.opentelemetry.io/collector/featuregate
 # go.opentelemetry.io/collector/internal/componentalias v0.153.0
 ## explicit; go 1.25.0
 go.opentelemetry.io/collector/internal/componentalias
-# go.opentelemetry.io/collector/pdata v1.69.0
+# go.opentelemetry.io/collector/pdata v1.70.0
 ## explicit; go 1.26.0
 go.opentelemetry.io/collector/pdata/internal
 go.opentelemetry.io/collector/pdata/internal/json
